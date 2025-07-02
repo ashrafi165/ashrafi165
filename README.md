@@ -1,9 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ashrafi165/ashrafi165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student with a CGPA of 3.96 from the Department of Computer Science and Engineering at the University of Asia Pacific. I aim to utilize my critical thinking, communication, mathematical reasoning, research, and programming skills throughout my academic journey.
 
-Here are some ideas to get you started:
+TECHNICAL SKILLS:
+- Programming Language:C,Java,Python
+- Frontend: JavaScript, HTML5, CSS3
+- DevOps & Tools: Git, GitHub, Canva, Google Colab, VS Studio
+- Databases: MySQL
+
+EDUCATION:
+- B.Sc. in Computer Science & Engineering
+  - University of Asia Pacific
+  - Expected Passing Year 2025
+  - 
+<!--
+Here are some ideas to get you started
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
