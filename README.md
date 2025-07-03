@@ -7,11 +7,6 @@ TECHNICAL SKILLS:
 - Frontend: JavaScript, HTML5, CSS3
 - DevOps & Tools: Git, GitHub, Canva, Google Colab, VS Studio
 - Databases: MySQL
-
-EDUCATION:
-- B.Sc. in Computer Science & Engineering
-  - University of Asia Pacific
-  - Expected Passing Year 2025
  
 HONORS & ACTIVITIES
 - Vice Chancellor's Award<br>
@@ -23,6 +18,10 @@ Achieved in one semester(first)
 - Participate : National Women’s Math Olympiad 2023.
 - Participant : KUET CSE BitFest 2025.
 - Participant : National robotics championship 2025, BUBT
+
+
+📫 Feel free to reach out to me at siddikaashrafi655@gamil.com
+
 <!--
 Here are some ideas to get you started
 
