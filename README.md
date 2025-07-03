@@ -12,7 +12,17 @@ EDUCATION:
 - B.Sc. in Computer Science & Engineering
   - University of Asia Pacific
   - Expected Passing Year 2025
-  - 
+ 
+HONORS & ACTIVITIES
+- Vice Chancellor's Award<br>
+An academic award for students who achieved CGPA 3.90+ in a semester<br>
+Achieved for six consecutive semesters
+- Dean's Award<br>
+An academic award for students who achieved CGPA 3.75+ in a semester<br>
+Achieved in one semester(first)
+- Participate : National Women’s Math Olympiad 2023.
+- Participant : KUET CSE BitFest 2025.
+- Participant : National robotics championship 2025, BUBT
 <!--
 Here are some ideas to get you started
 
