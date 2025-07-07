@@ -13,11 +13,11 @@ HONORS & ACTIVITIES
 An academic award for students who achieved CGPA 3.90+ in a semester<br>
 Achieved for six consecutive semesters
 - Dean's Award<br>
-An academic award for students who achieved CGPA 3.75+ in a semester<br>
+An academic award for students who achieved CGPA up to 3.75  and less than 3.90 in a semester<br>
 Achieved in one semester(first)
 - Participate : National Women’s Math Olympiad 2023.
 - Participant : KUET CSE BitFest 2025.
-- Participant : National robotics championship 2025, BUBT
+- Participant : National Robotics Championship 2025, BUBT
 
 
 📫 Feel free to reach out to me at siddikaashrafi655@gamil.com
