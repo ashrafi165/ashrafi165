@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a student with a CGPA of 3.96 from the Department of Computer Science and Engineering at the University of Asia Pacific. I aim to utilize my critical thinking, communication, mathematical reasoning, research, and programming skills throughout my academic journey.
+I am a student with a CGPA of 3.97 from the Department of Computer Science and Engineering at the University of Asia Pacific. I aim to utilize my critical thinking, communication, mathematical reasoning, research, and programming skills throughout my academic journey.
 
 TECHNICAL SKILLS:
 - Programming Language:C,Java,Python
