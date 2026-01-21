@@ -3,7 +3,7 @@
 I am a student with a CGPA of 3.97 from the Department of Computer Science and Engineering at the University of Asia Pacific. I aim to utilize my critical thinking, communication, mathematical reasoning, research, and programming skills throughout my academic journey.
 
 TECHNICAL SKILLS:
-- Programming Language:C,Java,Python
+- Programming Language: C,Java,Python
 - Frontend: JavaScript, HTML5, CSS3
 - DevOps & Tools: Git, GitHub, Canva, Google Colab, VS Studio
 - Databases: MySQL
@@ -20,7 +20,7 @@ Achieved in one semester(first)
 - Participant : National Robotics Championship 2025, BUBT
 
 
-📫 Feel free to reach out to me at siddikaashrafi655@gamil.com
+📫 Feel free to reach out to me at siddikaashrafi655@gmail.com
 
 <!--
 Here are some ideas to get you started
